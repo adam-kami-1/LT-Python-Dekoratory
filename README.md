@@ -1,2 +1,2 @@
 # LT-Python-Dekoratory
-Przykłady kodu w Pythonie di prezentacji „Dekoratory w Pythonie”
+Przykłady kodu w Pythonie do prezentacji „Dekoratory w Pythonie”
